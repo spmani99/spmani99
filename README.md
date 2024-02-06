@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi there, I'm Sandali!
 
-<!--
-**spmani99/spmani99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer based in Galle, Sri Lanaka. My interests span across web development, and technology in general.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript (Node.js, React), JAVA, Python, C, HTML, CSS
+
+## 🌐 Connect with Me
+
+- [Personal Website](https://my-portfolio-six-dun-52.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/sandali-manimendra/)
+
+## 🌱 Currently Learning
+
+I'm always eager to learn new things. Currently, I'm exploring Data Mining and Machine Learning.
