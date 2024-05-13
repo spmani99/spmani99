@@ -4,7 +4,7 @@ I'm a passionate full stack software developer based in Galle, Sri Lanaka. My in
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript (Node.js, React), JAVA, Python, C, HTML, CSS, Spring Boot
+- **Languages:**  JAVA, JavaScript (Node.js, React), Python, C, HTML, CSS, Spring Boot
 
 ## 🌐 Connect with Me
 
