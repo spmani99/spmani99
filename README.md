@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sandali!
 
-I'm a passionate full stack software developer based in Galle, Sri Lanaka. My interests span across web development, and technology in general.
+I'm a passionate full stack software developer and a Data Analyst based in Galle, Sri Lanaka. My interests span across web development, and technology in general.
 
 ## 🚀 Skills
 
